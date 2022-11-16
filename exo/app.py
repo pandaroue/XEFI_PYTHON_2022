@@ -1,5 +1,5 @@
 from View.gui_probleme import Gui_probleme
-from tkinter import Tk
+from tkinter import *
 
 class App():
     def __init__(self, master):
